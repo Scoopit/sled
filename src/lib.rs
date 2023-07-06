@@ -91,8 +91,7 @@
     missing_copy_implementations,
     trivial_casts,
     trivial_numeric_casts,
-    unsafe_code,
-    unused_qualifications
+    unsafe_code
 )]
 #![deny(
     // over time, consider enabling the commented-out lints below
